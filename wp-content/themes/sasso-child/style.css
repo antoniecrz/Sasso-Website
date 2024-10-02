@@ -1,0 +1,26 @@
+/*
+Theme Name: sasso Child
+Theme URI: https://demo.unlimitedqatar.com/sasso/
+Template: sasso
+Author: Sitemap.qa
+Author URI: http://modeltheme.com/
+Description: The Authentic Italian Flavors Restaurant
+Version: 1.0
+Text Domain: sasso
+Tags: custom-header, custom-menu, featured-images, post-formats, sticky-post
+
+*/
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+.navbar-header h1.logo {
+	margin: 10px 0 10px 20px !important;
+}
+header {
+	background-color:#ffffff !important;
+}
+
+button::before, button::after, .zidex_btn::before, .zidex_btn::after, .button-winona::before, .button-winona::after, .page-numbers::before, .page-numbers::after{
+    background: #f7f7f7 !important;
+}
